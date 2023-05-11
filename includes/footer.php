@@ -185,7 +185,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="wrapepr">
-                            <p>Copyright 2023 Elevate. All Rights Reserved.</p>
+                            <p>Copyright <?php echo date("Y"); ?>  CAMBIO SCHEEPVAART BV. All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>
@@ -205,7 +205,7 @@
     <!-- progress area end -->
 
     <!-- cart area start -->
-    <div class="cart-bar">
+    <!-- <div class="cart-bar">
         <div class="cart-header">
             <h3 class="cart-heading">MY CART (3 ITEMS)</h3>
             <div class="close-cart"><i class="fal fa-times"></i></div>
@@ -300,10 +300,10 @@
             <a href="checkout.html" class="checkout-btn cart-btn">PROCEED TO CHECKOUT</a>
             <a href="cart.html" class="view-btn cart-btn">VIEW CART</a>
         </div>
-    </div>
+    </div> -->
     <!-- cart area edn -->
 
-    <div class="search-input-area">
+    <!-- <div class="search-input-area">
         <div class="container">
             <div class="search-input-inner">
                 <div class="input-div">
@@ -313,14 +313,14 @@
             </div>
         </div>
         <div id="close" class="search-close-icon"><i class="far fa-times"></i></div>
-    </div>
+    </div> -->
 
 
     <div id="anywhere-home" class="">
     </div>
 
     <!-- pre loader start -->
-    <div id="elevate-load">
+    <!-- <div id="elevate-load">
         <div class="loader-wrapper">
             <div class="lds-ellipsis">
                 <div></div>
@@ -329,7 +329,7 @@
                 <div></div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- pre loader end -->
 
 

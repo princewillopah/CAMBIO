@@ -134,22 +134,27 @@
                                 <div class="main-nav-desk nav-area">
                                     <nav>
                                         <ul>
-                                            <li>
-                                                <a href="index.php" class="main <?php if ($page == 'home') { echo 'active'; } ?>" href="index.php">Home</a>
+                                            <li class="menu-item">
+                                                <a  class="nav-item <?php if ($page == 'home') { echo 'active'; } ?>" href="index.php">Home</a>
                                             </li>
-                                            <li>
-                                                <a href="index.php" class="main <?php if ($page == 'home') { echo 'active'; } ?>" href="index.php">Home</a>
+                                            <li class="menu-item">
+                                                <a  class="nav-item <?php if ($page == 'about') { echo 'active'; } ?>" href="about.php">About Us</a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a  class="nav-item <?php if ($page == 'storage') { echo 'active'; } ?>" href="storage.php">Storage</a>
                                             </li>
                                             <li class="has-droupdown pages">
-                                                <a class="nav-link" href="#">Blog</a>
+                                                <a class="nav-link <?php if ($page == 'shipping' || $page == 'rail') { echo 'active'; } ?>" href="#">Transportation</a>
                                                 <ul class="submenu inner-page">
-                                                    <li><a href="blog-list.html">Blog List</a></li>
-                                                    <li><a href="blog-grid.html">Blog Grid</a></li>
-                                                    <li><a href="blog-details.html">Blog Details</a></li>
+                                                    <li><a class="nav-item <?php if ($page == 'shipping') { echo 'active'; } ?>" href="shipping.php">Shipping</a></li>
+                                                    <li><a class="nav-item <?php if ($page == 'rail') { echo 'active'; } ?>" href="rail.php">Rail</a></li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item">
-                                                <a class="nav-item" href="contact.php">Contact</a>
+                                                <a class="nav-item <?php if ($page == 'seq') { echo 'active'; } ?>" href="quality-and-safety.php">Safety and Quality</a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a class="nav-item <?php if ($page == 'contact') { echo 'active'; } ?>" href="contact.php">Contact</a>
                                             </li>
                                         </ul>
                                     </nav>
