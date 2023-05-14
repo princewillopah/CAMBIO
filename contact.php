@@ -34,38 +34,175 @@
                 <!-- single contact area -->
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-contact-one-inner">
-                        <!-- <div class="thumbnail">
-                            <img src="assets/images/contact/01.jpg" alt="">
-                        </div> -->
-                        <div class="content">
-                            <!-- <div class="icone">
-                                <img src="assets/images/contact/shape/01.svg" alt="">
-                            </div> -->
+                       
+                        <!-- <div class="contentx">
                             <div class="info">
-                                <span>Call Us 24/7</span>
-                                <a href="tel:+18475555555">
-                                    <h5>+584 (25) 21453</h5>
-                                </a>
+                                <h5>HEAD OFFICE REGISTRATION</h5>
+                                <div class="single-project-details-challenge">
+                                    <div class="icon">
+                                        <i class="fal fa-map-marker-alt"></i>
+                                    </div>
+                                    <p class="details">
+                                    148 Rue Saint-Honoré, 75001 Paris, France (3rd Floor Apt 54)
+                                    Numéro Siret :48325210200015 (siège de l'entreprise)
+                                    </p>
+                                </div>
+                                <div class="single-project-details-challenge">
+                                    <div class="icon">
+                                        <span class="custom-i">Code NAF/APE:<span>
+                                    </div>
+                                    <p class="details">
+                                    5040Z
+                                    </p>
+                                </div>
+                                <div class="single-project-details-challenge">
+                                    <div class="icon">
+                                        <i class="far fa-phone"></i>
+                                    </div>
+                                    <p class="details">
+                                    +33 7 56 75 79 27
+                                    </p>
+                                </div>
+
+                                <div class="single-project-details-challenge">
+                                    <div class="icon">
+                                        <i class="fa-regular fa-envelope"></i>
+                                    </div>
+                                    <p class="details">
+                                    info@cambioscheepvaart.nl
+                                    </p>
+                                </div>
                             </div>
-                        </div>
+                        </div> -->
+
+
+                        <div class="big-bg-porduct-details">
+                                    <div class="contact-info">
+                                    <div class="info-head">
+                                        <h5 class="title">HEAD OFFICE REGISTRATION</h5>
+                                    </div>
+                                    <div class="info-body">
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-map-marker-alt"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Address:</span>
+                                                <h6 class="name">148 Rue Saint-Honoré, 75001 Paris, France (3rd Floor Apt 54)
+                                                    Numéro Siret :48325210200015 (siège de l'entreprise)</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-layer-group"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Code NAF/APE:</span>
+                                                <h6 class="name">5040Z</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-phone"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Information Line:</span>
+                                                <h6 class="name">+33 7 56 75 79 27</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-envelope"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Email:</span>
+                                                <h6 class="name"> info@cambioscheepvaart.nl</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                    </div>
+                                </div>
+                            </div>
+
+
                     </div>
                 </div>
                 <!-- single contact area end -->
+
                 <!-- single contact area -->
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
                     <div class="single-contact-one-inner">
-                        <!-- <div class="thumbnail">
-                            <img src="assets/images/contact/02.jpg" alt="">
-                        </div> -->
-                        <div class="content">
-                            <div class="icone">
-                                <img src="assets/images/contact/shape/02.svg" alt="">
-                            </div>
-                            <div class="info">
-                                <span>MAke A Quote</span>
-                                <a href="mailto:someone@example.com">
-                                    <h5>info@finbiz.com</h5>
-                                </a>
+                        <div class="contentx">
+                            <div class="big-bg-porduct-details">
+                                    <div class="contact-info">
+                                    <div class="info-head">
+                                        <h5 class="title">ROTTERDAM REGISTRATION OFFICE</h5>
+                                    </div>
+                                    <div class="info-body">
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-map-marker-alt"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Address:</span>
+                                                <h6 class="name">Tarbot 115 Ridderkerk 2986 ND Netherlands</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                         <!-- single info -->
+                                         <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-layer-group"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>KVK numme:</span>
+                                                <h6 class="name">24258521</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-th"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Vestigingsn ummer:</span>
+                                                <h6 class="name">000018245730</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-phone"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Inquiries:</span>
+                                                <h6 class="name">+31 6 35 25 03 57</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-envelope"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Email:</span>
+                                                <h6 class="name">nl@cambioscheepvaart.nl</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -77,17 +214,50 @@
                         <!-- <div class="thumbnail">
                             <img src="assets/images/contact/03.jpg" alt="">
                         </div> -->
-                        <div class="content">
-                            <div class="icone">
-                                <img src="assets/images/contact/shape/03.svg" alt="">
+                        
+                        <div class="big-bg-porduct-details">
+                                    <div class="contact-info">
+                                    <div class="info-head">
+                                        <h5 class="title">HOUSTON TERMINAL SERVICE ADDRESS</h5>
+                                    </div>
+                                    <div class="info-body">
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-map-marker-alt"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Address:</span>
+                                                <h6 class="name">1358 N Witter St, Pasadena, TX 77506, USA</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-phone"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Inquiries:</span>
+                                                <h6 class="name"> +1 (713) 379-7627</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                        <!-- single info -->
+                                        <div class="single-info">
+                                            <div class="info-ico">
+                                                <i class="fas fa-envelope"></i>
+                                            </div>
+                                            <div class="info-details">
+                                                <span>Email:</span>
+                                                <h6 class="name"> tx@cambioscheepvaart.nl</h6>
+                                            </div>
+                                        </div>
+                                        <!-- end single info -->
+                                    </div>
+                                </div>
                             </div>
-                            <div class="info">
-                                <span>Service Station</span>
-                                <a href="#">
-                                    <h5>25 Hilton Street.</h5>
-                                </a>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <!-- single contact area end -->
@@ -127,10 +297,10 @@
                             </select> -->
                             <!-- <div class="input-half-wrapper mt--25 mb--30">
                                 <div class="single-input">
-                                    <input placeholder="Select Date" type="text" name="checkIn" id="datepicker" value="" class="calendar" required>
+                                    <input placeholder="Select Information Line" type="text" name="checkIn" id="Information Linepicker" value="" class="calendar" required>
                                 </div>
                                 <div class="single-input">
-                                    <input type="text" id="timepicker" placeholder="Select Date" />
+                                    <input type="text" id="timepicker" placeholder="Select Information Line" />
                                 </div>
                             </div> -->
                             <textarea class="form-control mb--30 mt--25" id="message" name="message" placeholder="Your message Here" required=""></textarea>

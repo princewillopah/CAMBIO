@@ -28,11 +28,11 @@
                                 <div class="col-lg-12">
                                     <div class="banner-one-wrapper ptb--110">
                                         <span class="b_one-pre">
-                                            Welcome You To Elevate
+                                            Welcome You To CAMBIO SCHEEPVAART BV
                                         </span>
                                         <h1 class="title-banner">
-                                            We’re Providing <br>
-                                            Industry Leading <br>
+                                            We’re Providing<br>
+                                            The Best Shipping <br>
                                             Solution
                                         </h1>
                                         <div class="button-area-banner">
@@ -45,7 +45,7 @@
                                                 <div class="detail">
                                                     <span>Call Us Now</span>
                                                     <a href="tel:+4733378901" class="number">
-                                                        +256 2158 2158
+                                                    +33 7 56 75 79 27
                                                     </a>
                                                 </div>
                                             </div>
@@ -70,11 +70,11 @@
                                 <div class="col-lg-12">
                                     <div class="banner-one-wrapper ptb--110">
                                         <span class="b_one-pre">
-                                            Welcome You To Elevate
+                                            Welcome You To CAMBIO SCHEEPVAART BV
                                         </span>
                                         <h1 class="title-banner">
                                             We’re Providing <br>
-                                            Industry Roofing <br>
+                                            Rail transportaion <br>
                                             Solution
                                         </h1>
                                         <div class="button-area-banner">
@@ -87,7 +87,7 @@
                                                 <div class="detail">
                                                     <span>Call Us Now</span>
                                                     <a href="tel:+4733378901" class="number">
-                                                        +256 2158 2158
+                                                    +33 7 56 75 79 27
                                                     </a>
                                                 </div>
                                             </div>
@@ -112,11 +112,11 @@
                                 <div class="col-lg-12">
                                     <div class="banner-one-wrapper ptb--110">
                                         <span class="b_one-pre">
-                                            Welcome You To Elevate
+                                            Welcome You To CAMBIO SCHEEPVAART BV
                                         </span>
                                         <h1 class="title-banner">
                                             We’re Providing <br>
-                                            Building Leading <br>
+                                            Storage Leading <br>
                                             Solution
                                         </h1>
                                         <div class="button-area-banner">
@@ -129,7 +129,7 @@
                                                 <div class="detail">
                                                     <span>Call Us Now</span>
                                                     <a href="tel:+4733378901" class="number">
-                                                        +256 2158 2158
+                                                    +33 7 56 75 79 27
                                                     </a>
                                                 </div>
                                             </div>
