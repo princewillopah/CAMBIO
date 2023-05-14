@@ -1,198 +1,158 @@
 
 
 
-
+ <!-- Footer two -->
     <!-- rts footer area start -->
-    <div class="rts-footer-area footer-one footer-bg bg_image">
+    <div class="rts-footer-two rts-section-gap2Top">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <!-- footer top -->
-                    <div class="footer-top-wrapper  ptb--80">
-                        <a href="#" class="logo-area" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                            <img src="assets/images/logo/02.png" alt="blog-images">
-                        </a>
-                        <h4 class="title" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                            Subscribe Our Newsletter <br>
-                            For Latest Updates
-                        </h4>
-                        <div class="subscribe-area" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                            <form>
-                                <input type="email" name="email" placeholder="Email Address" required>
-                                <button class="rts-btn btn-primary">Subscribe</button>
-                            </form>
+                    <!-- ,main footer area start -->
+                    <div class="main-footer-wrapper-two">
+                        <div class="single-footer-wized-two logo-area" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
+                            <a href="assets/images/logo/02.png" class="logo">
+                                <img src="assets/images/logo/02.png" alt="logo">
+                            </a>
+                            <p class="disc-f">
+                                Sapien luctus lesuada sentus pharetra nisi quisuea aenean eros mus magnis arcu vehicula nascetur feugiat
+                            </p>
+                            <div class="rts-social-wrapper-three">
+                                <ul>
+                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
-                    <!-- footer top end -->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="main-footer-one-area ptb--80">
-                        <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                            <div class="body one">
-                                <h6 class="footer-title">
-                                    About Company
-                                </h6>
-                                <p class="disc">
-                                    Centric aplications productize before front end vortals visualize front end is
-                                    results and value added
-                                </p>
-                                <div class="social-wrapper-one">
+                        <div class="single-footer-wized-two pages" data-sal="slide-up" data-sal-delay="250" data-sal-duration="800">
+                            <div class="footer-header-two pages">
+                                <h6 class="title">Useful Links</h6>
+                                <div class="pages">
                                     <ul>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fa-brands fa-facebook-f"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fa-brands fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fa-brands fa-youtube"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fa-brands fa-linkedin-in"></i>
-                                            </a>
-                                        </li>
+                                        <li><a href="about.html"><i class="fa-solid fa-arrow-right"></i> About Us</a></li>
+                                        <li><a href="project.html"><i class="fa-solid fa-arrow-right"></i> Our Projects</a></li>
+                                        <li><a href="service.html"><i class="fa-solid fa-arrow-right"></i>Our Services</a></li>
+                                        <li><a href="team.html"><i class="fa-solid fa-arrow-right"></i> Our Team</a></li>
+                                        <li><a href="contact.html"><i class="fa-solid fa-arrow-right"></i> Contact Us</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
-                            <div class="body">
-                                <h6 class="footer-title">
-                                    Useful Links
-                                </h6>
-                                <div class="use-full-link-wrapper">
-                                    <a href="about.html" class="single">
-                                        <i class="fa-sharp fa-solid fa-right"></i>
-                                        About Us
-                                    </a>
-                                    <a href="#" class="single">
-                                        <i class="fa-sharp fa-solid fa-right"></i>
-                                        Our Gallery
-                                    </a>
-                                    <a href="service.html" class="single">
-                                        <i class="fa-sharp fa-solid fa-right"></i>
-                                        Our Services
-                                    </a>
-                                    <a href="team.html" class="single">
-                                        <i class="fa-sharp fa-solid fa-right"></i>
-                                        Our Team
-                                    </a>
-                                    <a href="contact.html" class="single">
-                                        <i class="fa-sharp fa-solid fa-right"></i>
-                                        Contact Us
-                                    </a>
+                        <div class="single-footer-wized-two user-number" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
+                            <div class="user-number-wrapper mt--10">
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Phone Number</h6>
+                                    <div class="number">
+                                        <i class="fa-solid fa-phone"></i>
+                                        <a href="tel:+18475555555">+254 (98) 2156 213</a>
+                                    </div>
                                 </div>
+                                <!-- single number end -->
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Email address</h6>
+                                    <div class="number">
+                                        <i class="fa-light fa-envelope"></i>
+                                        <a href="mailto:name@email.com">info@elevate.com</a>
+                                    </div>
+                                </div>
+                                <!-- single number end -->
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Office Location</h6>
+                                    <div class="number">
+                                        <i class="fa-light fa-location-dot"></i>
+                                        <a class="mt-dec" href="#">25 Helano Street, 145 City Road
+                                            New Town DD14, USA</a>
+                                    </div>
+                                </div>
+                                <!-- single number end -->
                             </div>
                         </div>
-                        <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                            <div class="body">
-                                <h6 class="footer-title">
-                                    Contact Us
-                                </h6>
-                                <div class="contactus-link-wrapper">
-                                    <div class="single">
-                                        <div class="icon">
-                                            <i class="fa-sharp fa-solid fa-phone"></i>
-                                        </div>
-                                        <a href="#" class="number">
-                                            +254 (98) 2156 213
-                                        </a>
-                                    </div>
-                                    <div class="single">
-                                        <div class="icon">
-                                            <i class="fa-sharp fa-solid fa-phone"></i>
-                                        </div>
-                                        <a href="#" class="number">
-                                            +254 (98) 2156 213
-                                        </a>
-                                    </div>
-                                    <div class="single">
-                                        <div class="icon">
-                                            <i class="fa-sharp fa-regular fa-envelope"></i>
-                                        </div>
-                                        <a href="#" class="number">
-                                            info@elevate.com
-                                        </a>
-                                    </div>
-                                    <div class="single">
-                                        <div class="icon">
-                                            <i class="fa-light fa-location-dot"></i>
-                                        </div>
-                                        <a href="#" class="number mt-dec">
-                                            25 Helano, 145 City Road <br>
-                                            New Town DD14, USA
-                                        </a>
-                                    </div>
-                                </div>
+                        <div class="single-footer-wized-two newsletter" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
+                            <div class="footer-header-two newsletter">
+                                <h6 class="title">Newsletter</h6>
+                                <p class="letters">
+                                    Aplications prodize before front end ortals visualize front end
+                                </p>
+                                <form class="subscribe-2-footer">
+                                    <input type="email" required placeholder="Email Address">
+                                    <button class="rts-btn btn-primary">Subscribe Now</button>
+                                </form>
                             </div>
                         </div>
-                        <div class="single-footer-inner" data-sal="slide-up" data-sal-delay="750" data-sal-duration="800">
-                            <div class="body">
-                                <h6 class="footer-title">
-                                    Popular Posts
-                                </h6>
-                                <div class="popular-post-wrapper">
-                                    <div class="single-popular-post">
-                                        <a href="blog-details.html" class="thumbnail">
-                                            <img src="assets/images/footer/01.png" alt="popular-post">
-                                        </a>
-                                        <div class="details-area">
-                                            <div class="logo">
-                                                <i class="fa-regular fa-clock"></i>
-                                                15th April, 2022
-                                            </div>
-                                            <a href="blog-details.html" class="tilte-area">
-                                                <h6 class="title">Building Renovation Tasks</h6>
-                                            </a>
-                                            <a href="#" class="btn-read-more">Read More <i
-                                                    class="fa-solid fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                    <div class="single-popular-post">
-                                        <a href="blog-details.html" class="thumbnail">
-                                            <img src="assets/images/footer/02.png" alt="popular-post">
-                                        </a>
-                                        <div class="details-area">
-                                            <div class="logo">
-                                                <i class="fa-regular fa-clock"></i>
-                                                15th April, 2022
-                                            </div>
-                                            <a href="blog-details.html" class="tilte-area">
-                                                <h6 class="title">Building Renovation Tasks</h6>
-                                            </a>
-                                            <a href="blog-details.html" class="btn-read-more">Read More <i
-                                                    class="fa-solid fa-arrow-right"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
+                    </div>
+                    <!-- ,main footer area end -->
+                </div>
+            </div>
+        </div>
+        <div class="menu-row-wrapper mt--80">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="menu-wrapper-footer-row">
+                            <!-- single menu wrapper -->
+                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
+                                <a href="about.html">About Us</a>
                             </div>
+                            <!-- single menu wrapper end -->
+                            <!-- single menu wrapper -->
+                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
+                                <a href="project.html">Projects</a>
+                            </div>
+                            <!-- single menu wrapper end -->
+                            <!-- single menu wrapper -->
+                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
+                                <a href="safety.html">Updates</a>
+                            </div>
+                            <!-- single menu wrapper end -->
+                            <!-- single menu wrapper -->
+                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
+                                <a href="vision.html">Mission</a>
+                            </div>
+                            <!-- single menu wrapper end -->
+                            <!-- single menu wrapper -->
+                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
+                                <a href="blog-list.html">Inside</a>
+                            </div>
+                            <!-- single menu wrapper end -->
+                            <!-- single menu wrapper -->
+                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
+                                <a href="contact.html">Contact</a>
+                            </div>
+                            <!-- single menu wrapper end -->
+                            <!-- single menu wrapper -->
+                            <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
+                                <a href="company-story.html">History</a>
+                            </div>
+                            <!-- single menu wrapper end -->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="copyright-area-one">
+
+
+        <!-- copy right area start -->
+        <div class="copyright-area">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <div class="wrapepr">
-                            <p>Copyright <?php echo date("Y"); ?>  CAMBIO SCHEEPVAART BV. All Rights Reserved.</p>
+                        <div class="copyright-footer-two">
+                            <p class="disc">
+                                © 2023 Elevate. All images are for demo purposes.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- copyright area end -->
     </div>
     <!-- rts footer area end -->
+    <!-- Footer two End -->
 
     <!-- header style two -->
 

@@ -151,6 +151,37 @@
 <!-- ========================End Banner ========================================= -->
 
 
+
+    <!-- rts cta area start -->
+    <div class="rts-cta-area rts-section-gap2Bottom">
+        <div class="container container-cta-150">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="path-cta-left">
+                        <h3 class="title">
+                            Do you want to get estimation?
+                        </h3>
+                        <p class="disc">Get free consultation of your shipping solutions. feel free to call us.</p>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="path-call-area">
+                        <div class="icon">
+                            <i class="fa-regular fa-phone-office"></i>
+                        </div>
+                        <div class="detail">
+                            <span>Mon-Sat 8:00-9:00</span>
+                            <a href="#" class="number">
+                            +33 7 56 75 79 27
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- rts cta area end -->
+
 <!--=========================footer =============================================-->
  <!-- ----------footer---------------------------------- -->
  <?php
