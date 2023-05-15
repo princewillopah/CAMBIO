@@ -181,14 +181,156 @@
                 </div>
             </div>
         </div>
-    </div>
+ </div>
     <!-- rts about us section end -->
 
-
-
+ <!-- what we offer start -->
+ <div class="rts-offer-provide-section rts-section-gap bg_about-f">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="title-mid-wrapper-home-two" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
+                        <span class="pre">Our Services</span>
+                        <h2 class="title">What We Offer</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt--15 g-24">
+                <div class="col-lg-4">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="service-details.html" class="thumbnail">
+                            <img src="assets/images/service/07.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="service-details.html">
+                                <h5 class="title">
+                                    Shipping Transportation
+                                </h5>
+                            </a>
+                            <p class="disc">
+                            We provides transport over rivers, canals and via the seaports of Europe.
+                            </p>
+                            <a href="shipping.php" class="rts-btn btn-transparent-service">View Services<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-lg-4">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="service-details.html" class="thumbnail">
+                            <img src="assets/images/service/08.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="service-details.html">
+                                <h5 class="title">
+                                  Rail  Transportation
+                                </h5>
+                            </a>
+                            <p class="disc">
+                            We offer the market reliable handling of block trains in Houston and Europe
+                            </p>
+                            <a href="rail.php" class="rts-btn btn-transparent-service">View Services<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+                <div class="col-lg-4">
+                    <!-- single offer area sart -->
+                    <div class="rts-single-offer">
+                        <a href="service-details.html" class="thumbnail">
+                            <img src="assets/images/service/07.jpg" alt="service">
+                        </a>
+                        <div class="content-wrapper">
+                            <a href="service-details.html">
+                                <h5 class="title">
+                                    Tank Storage
+                                </h5>
+                            </a>
+                            <p class="disc">
+                            We offer a dependable, high-quality service for oil and petroleum storage, as well as sourcing, logistics, hedging, and product knowledge.
+                            </p>
+                            <a href="storage.php" class="rts-btn btn-transparent-service">View Services<i class="fa-light fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- single offer area end -->
+                </div>
+            </div>
+        </div>
+</div>
+    <!-- what we offer end -->
+  <!-- fun facts area start -->
+  <div class="rts-fun-facts-area rts-section-gap fun-facts-bg bg_image">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="elecate-left-title" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
+                        <!-- <span>Latest Projects</span> -->
+                        <h3 class="title">We Will Get Your<br> Shipping/Rail Transporation Covered</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-5 mt--10">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <!-- single fun facts start -->
+                    <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
+                        <div class="inner">
+                            <div class="icon">
+                                <img src="assets/images/fun-facts/icon/01.svg" alt="icon">
+                            </div>
+                            <h3 class="title"><span class="counter plus">2500</span></h3>
+                            <p>Storage Tanks</p>
+                        </div>
+                    </div>
+                    <!-- single fun facts end -->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <!-- single fun facts start -->
+                    <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
+                        <div class="inner">
+                            <div class="icon">
+                                <img src="assets/images/fun-facts/icon/04.svg" alt="icon">
+                            </div>
+                            <h3 class="title"><span class="counter ">99</span> %</h3>
+                            <p>Our Success Rates</p>
+                        </div>
+                    </div>
+                    <!-- single fun facts end -->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <!-- single fun facts start -->
+                    <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
+                        <div class="inner">
+                            <div class="icon">
+                                <img src="assets/images/fun-facts/icon/03.svg" alt="icon">
+                            </div>
+                            <h3 class="title"><span class="counter plus">100</span></h3>
+                            <p>Our Fleets</p>
+                        </div>
+                    </div>
+                    <!-- single fun facts end -->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-12">
+                    <!-- single fun facts start -->
+                    <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="750" data-sal-duration="800">
+                        <div class="inner">
+                            <div class="icon">
+                                <img src="assets/images/fun-facts/icon/05.svg" alt="icon">
+                            </div>
+                            <h3 class="title"><span class="counter plus">70</span></h3>
+                            <p>Our Trains</p>
+                        </div>
+                    </div>
+                    <!-- single fun facts end -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- fun facts area end -->
 
     <!-- rts cta area start -->
-    <div class="rts-cta-area rts-section-gap2Bottom">
+    <div class="rts-cta-area rts-section-gap2">
         <div class="container container-cta-150">
             <div class="row align-items-center">
                 <div class="col-lg-6">
