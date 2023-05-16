@@ -14,18 +14,34 @@
                                 <img src="assets/images/logo/02.png" alt="logo">
                             </a>
                             <p class="disc-f">
-                                Sapien luctus lesuada sentus pharetra nisi quisuea aenean eros mus magnis arcu vehicula nascetur feugiat
+                            CAMBIO SCHEEPVAART BV is a leading company that specializes in the transportation of mineral oils, liquid chemicals, and various liquid products through water and rail. 
                             </p>
-                            <div class="rts-social-wrapper-three">
+                            <!-- <div class="rts-social-wrapper-three">
                                 <ul>
                                     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
                                     <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
                                     <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                                 </ul>
+                            </div> -->
+                        </div>
+                        <div class="single-footer-wized-two pages mobile" data-sal="slide-up" data-sal-delay="250" data-sal-duration="800">
+                            <div class="footer-header-two pages">
+                                <h6 class="title">Menu</h6>
+                                <div class="pages">
+                                    <ul>
+                                        <li><a class=" <?php if ($page == 'home') { echo 'active'; } ?>" href="index.php">Home</a></li>
+                                        <li><a class=" <?php if ($page == 'about') { echo 'active'; } ?>" href="about.php">About Us</a></li>
+                                        <li><a class=" <?php if ($page == 'storage') { echo 'active'; } ?>" href="storage.php">Storage</a></li>
+                                        <li><a class=" <?php if ($page == 'shipping') { echo 'active'; } ?>" href="shipping.php">Shipping</a></li>
+                                        <li><a class=" <?php if ($page == 'rail') { echo 'active'; } ?>" href="rail.php">Rail</a></li>
+                                        <li><a class=" <?php if ($page == 'seq') { echo 'active'; } ?>" href="quality-and-safety.php">Safety and Quality</a></li>
+                                        <li><a class=" <?php if ($page == 'contact') { echo 'active'; } ?>" href="contact.php">Contact</a></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
-                        <div class="single-footer-wized-two pages" data-sal="slide-up" data-sal-delay="250" data-sal-duration="800">
+                        <!-- <div class="single-footer-wized-two pages " data-sal="slide-up" data-sal-delay="250" data-sal-duration="800">
                             <div class="footer-header-two pages">
                                 <h6 class="title">Useful Links</h6>
                                 <div class="pages">
@@ -38,15 +54,17 @@
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
+
                         <div class="single-footer-wized-two user-number" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                             <div class="user-number-wrapper mt--10">
+                            <h6 class="title titlex">FRANCE OFFICE</h6>
                                 <!-- single number -->
                                 <div class="single-number">
                                     <h6 class="title">Phone Number</h6>
                                     <div class="number">
                                         <i class="fa-solid fa-phone"></i>
-                                        <a href="tel:+18475555555">+254 (98) 2156 213</a>
+                                        <a href="tel:+18475555555">+33 7 56 75 79 27</a>
                                     </div>
                                 </div>
                                 <!-- single number end -->
@@ -55,7 +73,7 @@
                                     <h6 class="title">Email address</h6>
                                     <div class="number">
                                         <i class="fa-light fa-envelope"></i>
-                                        <a href="mailto:name@email.com">info@elevate.com</a>
+                                        <a href="mailto:name@email.com">info@cambioscheepvaart.nl</a>
                                     </div>
                                 </div>
                                 <!-- single number end -->
@@ -64,25 +82,81 @@
                                     <h6 class="title">Office Location</h6>
                                     <div class="number">
                                         <i class="fa-light fa-location-dot"></i>
-                                        <a class="mt-dec" href="#">25 Helano Street, 145 City Road
-                                            New Town DD14, USA</a>
+                                        <a class="mt-dec" href="#">148 Rue Saint-Honoré, 75001 Paris, France (3rd Floor Apt 54)
+                                            Numéro Siret :48325210200015 (siège de l'entreprise)</a>
                                     </div>
                                 </div>
                                 <!-- single number end -->
                             </div>
                         </div>
-                        <div class="single-footer-wized-two newsletter" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                            <div class="footer-header-two newsletter">
-                                <h6 class="title">Newsletter</h6>
-                                <p class="letters">
-                                    Aplications prodize before front end ortals visualize front end
-                                </p>
-                                <form class="subscribe-2-footer">
-                                    <input type="email" required placeholder="Email Address">
-                                    <button class="rts-btn btn-primary">Subscribe Now</button>
-                                </form>
+                        
+                        <div class="single-footer-wized-two user-number" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
+                            <div class="user-number-wrapper mt--10">
+                            <h6 class="title titlex">ROTTERDAM OFFICE</h6>
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Phone Number</h6>
+                                    <div class="number">
+                                        <i class="fa-solid fa-phone"></i>
+                                        <a href="tel:+18475555555">+31 6 35 25 03 57</a>
+                                    </div>
+                                </div>
+                                <!-- single number end -->
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Email address</h6>
+                                    <div class="number">
+                                        <i class="fa-light fa-envelope"></i>
+                                        <a href="mailto:name@email.com">nl@cambioscheepvaart.nl</a>
+                                    </div>
+                                </div>
+                                <!-- single number end -->
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Office Location</h6>
+                                    <div class="number">
+                                        <i class="fa-light fa-location-dot"></i>
+                                        <a class="mt-dec" href="#">Tarbot 115 Ridderkerk 2986 ND Netherlands</a>
+                                    </div>
+                                </div>
+                                <!-- single number end -->
                             </div>
                         </div>
+
+                        <div class="single-footer-wized-two user-number" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
+                            <div class="user-number-wrapper mt--10">
+                            <h6 class="title titlex">HOUSTON OFFICE</h6>
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Phone Number</h6>
+                                    <div class="number">
+                                        <i class="fa-solid fa-phone"></i>
+                                        <a href="tel:+18475555555"> +1 (713) 379-7627</a>
+                                    </div>
+                                </div>
+                                <!-- single number end -->
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Email address</h6>
+                                    <div class="number">
+                                        <i class="fa-light fa-envelope"></i>
+                                        <a href="mailto:name@email.com">tx@cambioscheepvaart.nl</a>
+                                    </div>
+                                </div>
+                                <!-- single number end -->
+                                <!-- single number -->
+                                <div class="single-number">
+                                    <h6 class="title">Office Location</h6>
+                                    <div class="number">
+                                        <i class="fa-light fa-location-dot"></i>
+                                        <a class="mt-dec" href="#">1358 N Witter St, Pasadena, TX 77506, USA</a>
+                                    </div>
+                                </div>
+                                <!-- single number end -->
+                            </div>
+                        </div>
+
+
                     </div>
                     <!-- ,main footer area end -->
                 </div>
@@ -95,37 +169,37 @@
                         <div class="menu-wrapper-footer-row">
                             <!-- single menu wrapper -->
                             <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="about.html">About Us</a>
+                                <a class="<?php if ($page == 'home') { echo 'active'; } ?>" href="index.php">Home</a>
                             </div>
                             <!-- single menu wrapper end -->
                             <!-- single menu wrapper -->
                             <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="project.html">Projects</a>
+                                <a class=" <?php if ($page == 'about') { echo 'active'; } ?>" href="about.php">About Us</a>
                             </div>
                             <!-- single menu wrapper end -->
                             <!-- single menu wrapper -->
                             <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="safety.html">Updates</a>
+                                <a class=" <?php if ($page == 'storage') { echo 'active'; } ?>" href="storage.php">Storage</a>
                             </div>
                             <!-- single menu wrapper end -->
                             <!-- single menu wrapper -->
                             <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="vision.html">Mission</a>
+                                <a class=" <?php if ($page == 'shipping') { echo 'active'; } ?>" href="shipping.php">Shipping</a>
                             </div>
                             <!-- single menu wrapper end -->
                             <!-- single menu wrapper -->
                             <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="blog-list.html">Inside</a>
+                                <a class=" <?php if ($page == 'rail') { echo 'active'; } ?>" href="rail.php">Rail</a>
                             </div>
                             <!-- single menu wrapper end -->
                             <!-- single menu wrapper -->
                             <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="contact.html">Contact</a>
+                               <a class=" <?php if ($page == 'seq') { echo 'active'; } ?>" href="quality-and-safety.php">Safety</a> 
                             </div>
                             <!-- single menu wrapper end -->
                             <!-- single menu wrapper -->
                             <div class="single-menu" data-sal="zoom-in" data-sal-delay="150" data-sal-duration="800">
-                                <a href="company-story.html">History</a>
+                                <a class=" <?php if ($page == 'contact') { echo 'active'; } ?>" href="contact.php">Contact</a>
                             </div>
                             <!-- single menu wrapper end -->
                         </div>
