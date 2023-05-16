@@ -13,7 +13,7 @@
                 <div class="col-lg-12">
                     <!-- bread crumb inner wrapper -->
                     <div class="breadcrumb-inner text-center">
-                        <h1 class="title">TRail Transportation</h1>
+                        <h1 class="title">Rail Transportation</h1>
                         <div class="meta">
                         <a href="index.php" class="prev">Home /</a>
                             <a href="rail.php" class="next">Rail</a>
