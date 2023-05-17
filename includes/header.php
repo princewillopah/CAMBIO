@@ -152,7 +152,7 @@
                                                 <a  class="nav-item <?php if ($page == 'home') { echo 'active'; } ?>" href="index.php">Home</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a  class="nav-item <?php if ($page == 'about') { echo 'active'; } ?>" href="about.php">About Us</a>
+                                                <a  class="nav-item <?php if ($page == 'about') { echo 'active'; } ?>" href="about.php">About</a>
                                             </li>
                                             <li class="menu-item">
                                                 <a  class="nav-item <?php if ($page == 'storage') { echo 'active'; } ?>" href="storage.php">Storage</a>
