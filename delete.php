@@ -288,21 +288,47 @@
                                     <input type="email" placeholder="Email Address" required>
                                 </div>
                             </div>
-                            <!-- <select>
-                                <option data-display="Select">Select an option</option>
-                                <option value="1">Some option</option>
-                                <option value="2">Another option</option>
-                                <option value="3" disabled>A disabled option</option>
-                                <option value="4">Potato</option>
-                            </select> -->
-                            <!-- <div class="input-half-wrapper mt--25 mb--30">
-                                <div class="single-input">
-                                    <input placeholder="Select Information Line" type="text" name="checkIn" id="Information Linepicker" value="" class="calendar" required>
+                           
+
+
+
+
+                            <div class="check-area">
+                                <div class="single-check">
+                                    <i class="fa-light fa-plus"></i>
+                                    <p><span>Name: </span>  </p>
                                 </div>
-                                <div class="single-input">
-                                    <input type="text" id="timepicker" placeholder="Select Information Line" />
+                                <div class="single-check">
+                                    <i class="fa-light fa-plus"></i>
+                                    <p><span>LENGTH: </span>  </p>
                                 </div>
-                            </div> -->
+                                <div class="single-check">
+                                    <i class="fa-light fa-plus"></i>
+                                    <p><span>WIDTH: </span>  </p>
+                                </div>
+                                <div class="single-check">
+                                    <i class="fa-light fa-plus"></i>
+                                    <p><span>CLASS: </span>  </p>
+                                </div>
+                                <div class="single-check">
+                                    <i class="fa-light fa-plus"></i>
+                                    <p><span>LOAD CAPACITY: </span>  </p>
+                                </div>
+                                <div class="single-check">
+                                    <i class="fa-light fa-plus"></i>
+                                    <p><span>TANK CAPACITY: </span>  </p>
+                                </div>
+                            </div>
+
+
+                            : Eendracht 
+ 86.00 m
+10.50 m
+ Stainless steel
+ 1690 tons
+ 1798 m
+
+
                             <textarea class="form-control mb--30 mt--25" id="message" name="message" placeholder="Your message Here" required=""></textarea>
                             <button type="submit" class="rts-btn btn-primary">SUBMIT MESSAGE</button>
                         </form>
