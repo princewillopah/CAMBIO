@@ -7,7 +7,7 @@
 
  <!-- Bread-Crumb style two -->
     <!-- rts breadcrumba area start -->
-    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb bg_image">
+    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb-rail bg_image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="thumbnail-about-six">
-                        <img class="image-lg" src="assets/images/about/12.jpg" alt="about-image">
+                        <img class="image-lg" src="assets/images/_rail/about-1.png" alt="about-image">
                         <!-- <img class="image-sm" src="assets/images/about/13.jpg" alt="about-image"> -->
                     </div>
                 </div>
@@ -76,7 +76,7 @@
         <div class="container-full">
             <div class="main-wrapper-sevice-col-2">
                 <div class="left-image">
-                    <img src="assets/images/service/11.png" alt="image">
+                    <img src="assets/images/_rail/2.png" alt="image">
                 </div>
                 <div class="path-right">
                     <div class="content-wrapper">

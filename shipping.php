@@ -7,7 +7,7 @@
 
  <!-- Bread-Crumb style two -->
     <!-- rts breadcrumba area start -->
-    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb bg_image">
+    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb-ship bg_image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -33,8 +33,8 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="thumbnail-about-six">
-                        <img class="image-lg" src="assets/images/about/12.jpg" alt="about-image">
-                        <!-- <img class="image-sm" src="assets/images/about/13.jpg" alt="about-image"> -->
+                        <img class="image-lg" src="assets/images/_shipping/abt.png" alt="about-image">
+                        <!-- <img class="image-sm" src="assets/images/about/13.png" alt="about-image"> -->
                     </div>
                 </div>
                 <div class="col-lg-6 pl--30 pl_md--15 pl_sm--15 pt_md--60 pt_sm--80">
@@ -79,7 +79,7 @@
                     <!-- service area eight -->
                     <div class="service-area-eight">
                         <div class="thumbnail">
-                            <img src="assets/images/service/27.jpg" alt="service">
+                            <img src="assets/images/_shipping/1.png" alt="service">
                         </div>
                         <div class="badge-area">
                             <span>De Ruyter</span>
@@ -122,7 +122,7 @@
                     <!-- service area eight -->
                     <div class="service-area-eight">
                         <div class="thumbnail">
-                            <img src="assets/images/service/28.jpg" alt="service">
+                            <img src="assets/images/_shipping/2.png" alt="service">
                         </div>
                         <div class="badge-area">
                             <span>Van Gogh</span>
@@ -162,7 +162,7 @@
                     <!-- service area eight -->
                     <div class="service-area-eight">
                         <div class="thumbnail">
-                            <img src="assets/images/service/29.jpg" alt="service">
+                            <img src="assets/images/_shipping/3.png" alt="service">
                         </div>
                         <div class="badge-area">
                             <span>Marie Antoinette</span>
@@ -202,7 +202,7 @@
                     <!-- service area eight -->
                     <div class="service-area-eight">
                         <div class="thumbnail">
-                            <img src="assets/images/service/30.jpg" alt="service">
+                            <img src="assets/images/_shipping/4.png" alt="service">
                         </div>
                         <div class="badge-area">
                             <span>Victoire</span>
@@ -243,7 +243,7 @@
                     <!-- service area eight -->
                     <div class="service-area-eight">
                         <div class="thumbnail">
-                            <img src="assets/images/service/31.jpg" alt="service">
+                            <img src="assets/images/_shipping/5.png" alt="service">
                         </div>
                         <div class="badge-area">
                             <span>Sam Houston</span>
@@ -284,7 +284,7 @@
                     <!-- service area eight -->
                     <div class="service-area-eight">
                         <div class="thumbnail">
-                            <img src="assets/images/service/28.jpg" alt="service">
+                            <img src="assets/images/_shipping/6.png" alt="service">
                         </div>
                         <div class="badge-area">
                             <span>Buffalo Bayou</span>
@@ -331,7 +331,7 @@
     <div class="container-full">
         <div class="main-wrapper-sevice-col-2">
             <div class="left-image">
-                <img src="assets/images/service/11.png" alt="image">
+                <img src="assets/images/_shipping/end.png" alt="image">
             </div>
             <div class="path-right">
                 <div class="content-wrapper">
