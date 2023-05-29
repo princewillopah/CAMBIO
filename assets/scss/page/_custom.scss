@@ -27,40 +27,155 @@ h6.title.titlex{
     margin-bottom: 8px;
 }
 
+.logo-area{
+  max-width: 240px;
+}
+
+.main-footer-wrapper-two .single-footer-wized-two.logo-area a.logo img {
+  max-width: 180px;
+}
+
+.single-footer-wized-two.logo-area a img {
+  margin-bottom: 20px;
+}
+
 // -------------------------------------------------------------------
 //    Shipping 
 // -------------------------------------------------------------------
+
+.bg-breadcrumb-about {
+  position: relative;
+}
+
+.bg-breadcrumb-about::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+.bg-breadcrumb-about {
+    background-image: url(../images/_about/bg.png);
+
+  }
+
+// -------------------------------------------------------------------
+//    Shipping 
+// -------------------------------------------------------------------
+
+.bg-breadcrumb-ship {
+  position: relative;
+}
+
+.bg-breadcrumb-ship::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
 .bg-breadcrumb-ship {
     background-image: url(../images/_shipping/bg.png);
-  .breadcrumb-inner .title {
-    color: #FF6600;
-  }
-  .breadcrumb-inner .meta a {
-    color: #FF6600;
-  }
+ 
 
   }
 
 // -------------------------------------------------------------------
-//    Shipping 
+//    rail
 // -------------------------------------------------------------------
+
+.bg-breadcrumb-rail {
+  position: relative;
+}
+
+.bg-breadcrumb-rail::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
 .bg-breadcrumb-rail {
     background-image: url(../images/_rail/bg.png);
-  .breadcrumb-inner .title {
-    color: #FF6600;
-  }
-  .breadcrumb-inner .meta a {
-    color: #FF6600;
-  }
 
   }
 // -------------------------------------------------------------------
-//    Shipping 
+//    contact
 // -------------------------------------------------------------------
 
+.bg-breadcrumb-contact {
+  position: relative;
+}
+
+.bg-breadcrumb-contact::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+.bg-breadcrumb-contact {
+  background-image: url(../images/_contact/bg.jpg);
+}
 // -------------------------------------------------------------------
-//    Shipping 
+//    seq
 // -------------------------------------------------------------------
+// .bg-breadcrumb-seq {
+//   background-image: url(../images/_seq/safe.jpg);
+// .breadcrumb-inner .title {
+//   color: #0C0A0A;
+// }
+// .breadcrumb-inner .meta a {
+//   color: #0C0A0A;
+// }
+
+// }
+
+
+
+.bg-breadcrumb-seq {
+  position: relative;
+}
+
+.bg-breadcrumb-seq::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.bg-breadcrumb-seq {
+  background-image: url(../images/_seq/safe.jpg);
+}
+
+.breadcrumb-inner .title {
+  color: #FF6600;
+  position: relative; /* Add position relative to the text elements */
+  z-index: 2; /* Set a higher z-index to make the text appear above the overlay */
+}
+
+.breadcrumb-inner .meta a {
+  color: #FF6600;
+  position: relative;
+  z-index: 2;
+}
+
 
 // -------------------------------------------------------------------
 //    Shipping 

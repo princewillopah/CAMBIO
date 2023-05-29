@@ -10,8 +10,8 @@
                     <!-- ,main footer area start -->
                     <div class="main-footer-wrapper-two">
                         <div class="single-footer-wized-two logo-area" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                            <a href="assets/images/logo/02.png" class="logo">
-                                <img src="assets/images/logo/02.png" alt="logo">
+                            <a href="index.php" class="logo">
+                                <img src="assets/images/logo/logo1.svg" alt="logo">
                             </a>
                             <p class="disc-f">
                             CAMBIO SCHEEPVAART BV is a leading company that specializes in the transportation of mineral oils, liquid chemicals, and various liquid products through water and rail. 
@@ -216,7 +216,7 @@
                     <div class="col-lg-12">
                         <div class="copyright-footer-two">
                             <p class="disc">
-                                © 2023 Elevate. All images are for demo purposes.
+                                © <?php echo date("Y"); ?> CAMBIO SCHEEPVAART BV.
                             </p>
                         </div>
                     </div>

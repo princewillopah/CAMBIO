@@ -7,7 +7,7 @@
 
  <!-- Bread-Crumb style two -->
     <!-- rts breadcrumba area start -->
-    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb bg_image">
+    <div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb-about bg_image">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
