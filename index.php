@@ -158,8 +158,8 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="thumbnail-about-six">
-                        <img class="image-lg" src="assets/images/about/12.jpg" alt="about-image">
-                        <img class="image-sm" src="assets/images/about/13.jpg" alt="about-image">
+                        <img class="image-lg" src="assets/images/_home/abt1.jpg" alt="about-image">
+                        <img class="image-sm" src="assets/images/_home/abt2.png" alt="about-image">
                     </div>
                 </div>
                 <div class="col-lg-6 pl--65 pl_md--15 pl_sm--15 pt_md--60 pt_sm--80">
@@ -199,11 +199,11 @@
                 <div class="col-lg-4">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/07.jpg" alt="service">
+                        <a href="shipping.php" class="thumbnail">
+                            <img src="assets/images/_home/sv1.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="service-details.html">
+                            <a href="shipping.php">
                                 <h5 class="title">
                                     Shipping Transportation
                                 </h5>
@@ -219,11 +219,11 @@
                 <div class="col-lg-4">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/08.jpg" alt="service">
+                        <a href="rail.php" class="thumbnail">
+                            <img src="assets/images/_home/sv2.png" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="service-details.html">
+                            <a href="rail.php">
                                 <h5 class="title">
                                   Rail  Transportation
                                 </h5>
@@ -239,11 +239,11 @@
                 <div class="col-lg-4">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/07.jpg" alt="service">
+                        <a href="storage.php" class="thumbnail">
+                            <img src="assets/images/_home/sv3.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="service-details.html">
+                            <a href="storage.php">
                                 <h5 class="title">
                                     Tank Storage
                                 </h5>
@@ -277,7 +277,7 @@
                     <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                         <div class="inner">
                             <div class="icon">
-                                <img src="assets/images/fun-facts/icon/01.svg" alt="icon">
+                                <img src="assets/images/_others/icon/tk1.png" alt="icon">
                             </div>
                             <h3 class="title"><span class="counter plus">2500</span></h3>
                             <p>Storage Tanks</p>
@@ -290,7 +290,7 @@
                     <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                         <div class="inner">
                             <div class="icon">
-                                <img src="assets/images/fun-facts/icon/04.svg" alt="icon">
+                                <img src="assets/images/_others/icon/04.svg" alt="icon">
                             </div>
                             <h3 class="title"><span class="counter ">99</span> %</h3>
                             <p>Our Success Rates</p>
@@ -303,7 +303,7 @@
                     <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                         <div class="inner">
                             <div class="icon">
-                                <img src="assets/images/fun-facts/icon/03.svg" alt="icon">
+                                <img src="assets/images/_others/icon/s1.png" alt="icon">
                             </div>
                             <h3 class="title"><span class="counter plus">100</span></h3>
                             <p>Our Fleets</p>
@@ -316,7 +316,7 @@
                     <div class="single-fun-facts-one" data-sal="slide-up" data-sal-delay="750" data-sal-duration="800">
                         <div class="inner">
                             <div class="icon">
-                                <img src="assets/images/fun-facts/icon/05.svg" alt="icon">
+                                <img src="assets/images/_others/icon/t2.png" alt="icon">
                             </div>
                             <h3 class="title"><span class="counter plus">70</span></h3>
                             <p>Our Trains</p>

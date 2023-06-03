@@ -9903,11 +9903,11 @@ Background Image
   background-image: url(../images/_home/s1.png);
 }
 .bg_image--2 {
-  background-image: url(../images/bg/bg-image-2.jpg);
+  background-image: url(../images/_home/s2.png);
 }
 
 .bg_image--3 {
-  background-image: url(../images/bg/bg-image-3.jpg);
+  background-image: url(../images/_home/s3.jpg);
 }
 
 // .bg_image--4 {
@@ -22075,9 +22075,38 @@ body.index-nine .single-case-wrapper {
 }
 
 .fun-facts-bg {
-  background-image: url(../images/fun-facts/01.jpg);
+  background-image: url(../images/_home/4.jpg);
   background-size: cover;
+  position: relative;
 }
+
+.fun-facts-bg::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.elecate-left-title.sal-animate  .title.animated.fadeIn{
+  // color: #FF6600;
+  position: relative; /* Add position relative to the text elements */
+  z-index: 2; /* Set a higher z-index to make the text appear above the overlay */
+}
+
+.single-fun-facts-one.sal-animate{
+  position: relative; /* Add position relative to the text elements */
+  z-index: 2; /* Set a higher z-index to make the text appear above the overlay */
+}
+
+
+
+
+
+
 
 .rts-fun-facts-area .elecate-left-title .title {
   color: #fff;

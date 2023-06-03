@@ -36,8 +36,8 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="thumbnail-area-about">
-                        <img src="assets/images/about/04.jpg" alt="about-area">
-                        <img src="assets/images/about/05.jpg" alt="about-sm" class="small">
+                        <img src="assets/images/_seq/big.jpg" alt="about-area">
+                        <img src="assets/images/_seq/small.png" alt="about-sm" class="small">
                     </div>
                 </div>
                 <div class="col-lg-7 about-a-p-cont">
@@ -171,7 +171,7 @@
                     <div class="thumbnail thumbnail-service-about">
                         <div class="reveal-item overflow-hidden aos-init">
                             <div class="reveal-animation reveal-end reveal-primary aos aos-init" data-aos="reveal-end"></div>
-                            <img src="assets/images/service/13.jpg" alt="service-image">
+                            <img src="assets/images/_seq/1.png" alt="service-image">
                         </div>
                     </div>
                 </div>
@@ -211,7 +211,7 @@
                     <div class="thumbnail thumbnail-service-about">
                         <div class="reveal-item overflow-hidden aos-init">
                             <div class="reveal-animation reveal-end reveal-primary aos aos-init" data-aos="reveal-end"></div>
-                            <img src="assets/images/service/21.jpg" alt="service-image">
+                            <img src="assets/images/_seq/2.jpg" alt="service-image">
                         </div>
                     </div>
                 </div>
@@ -222,7 +222,7 @@
                     <div class="thumbnail thumbnail-service-about">
                         <div class="reveal-item overflow-hidden aos-init">
                             <div class="reveal-animation reveal-end reveal-primary aos aos-init" data-aos="reveal-end"></div>
-                            <img src="assets/images/service/13.jpg" alt="service-image">
+                            <img src="assets/images/_seq/3.jpg" alt="service-image">
                         </div>
                     </div>
                 </div>

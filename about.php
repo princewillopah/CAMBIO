@@ -36,8 +36,8 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="thumbnail-area-about">
-                        <img src="assets/images/about/04.jpg" alt="about-area">
-                        <img src="assets/images/about/05.jpg" alt="about-sm" class="small">
+                        <img src="assets/images/_about/cap.png" alt="about-area">
+                        <!-- <img src="assets/images/_about/05.jpg" alt="about-sm" class="small"> -->
                         <!-- <a class="rts-btn btn-primary" href="#">Elevate Profile</a> -->
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                                 <!-- authore area start -->
                                 <!-- <div class="main-authore-wrapper">
                                     <div class="author">
-                                        <img src="assets/images/about/06.jpg" alt="">
+                                        <img src="assets/images/_about/06.jpg" alt="">
                                     </div>
                                     <div class="info">
                                         <h6 class="title">Daniel H. Smith</h6>
@@ -120,15 +120,15 @@
             <div class="row align-items-center">
                 <div class="col-xl-6 col-lg-12  plr-sm">
                     <div class="thumbnail-service-about">
-                        <img src="assets/images/service/13.jpg" alt="service-image">
-                        <div class="vedio-icone">
+                        <img src="assets/images/_about/atb3.jpg" alt="service-image">
+                        <!-- <div class="vedio-icone">
                             <a id="play-video" class="video-play-button" href="#">
                                 <span></span>
                             </a>
                             <div id="video-overlay" class="video-overlay">
                                 <a class="video-overlay-close">×</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-12 pading-controler">
@@ -145,7 +145,8 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                                 <div class="single-service-sm">
                                     <div class="icon">
-                                        <img src="assets/images/service/icon/01.svg" alt="">
+                                        <!-- <img src="assets/images/service/icon/01.svg" alt=""> -->
+                                        <img src="assets/images/_others/icon/3.png" alt="">
                                     </div>
                                     <p>Expert Teams</p>
                                 </div>
@@ -153,7 +154,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                                 <div class="single-service-sm">
                                     <div class="icon">
-                                        <img src="assets/images/service/icon/02.svg" alt="">
+                                        <img src="assets/images/_others/icon/2.png" alt="">
                                     </div>
                                     <p>Timely Delivery</p>
                                 </div>
@@ -161,7 +162,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                                 <div class="single-service-sm">
                                     <div class="icon">
-                                        <img src="assets/images/service/icon/03.svg" alt="">
+                                        <img src="assets/images/_others/icon/1.png" alt="">
                                     </div>
                                     <p>Modern Fleets</p>
                                 </div>
@@ -185,7 +186,7 @@
                             <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                                 <div class="single-service-sm">
                                     <div class="icon">
-                                        <img src="assets/images/service/icon/06.svg" alt="">
+                                        <img src="assets/images/_others/icon/4.png" alt="">
                                     </div>
                                     <p>Safe Rail</p>
                                 </div>
@@ -203,8 +204,8 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="thumbnail-area-about">
-                        <img src="assets/images/about/04.jpg" alt="about-area">
-                        <!-- <img src="assets/images/about/05.jpg" alt="about-sm" class="small"> -->
+                        <img src="assets/images/_about/abt3.jpg" alt="about-area">
+                        <!-- <img src="assets/images/_about/05.jpg" alt="about-sm" class="small"> -->
                     </div>
                 </div>
                 <div class="col-lg-7 about-a-p-cont">
@@ -251,11 +252,11 @@
                 <div class="col-lg-4">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/07.jpg" alt="service">
+                        <a href="shipping.php" class="thumbnail">
+                            <img src="assets/images/_home/sv1.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="service-details.html">
+                            <a href="shipping.php">
                                 <h5 class="title">
                                     Shipping Transportation
                                 </h5>
@@ -271,11 +272,11 @@
                 <div class="col-lg-4">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/08.jpg" alt="service">
+                        <a href="rail.php" class="thumbnail">
+                            <img src="assets/images/_home/sv2.png" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="service-details.html">
+                            <a href="rail.php">
                                 <h5 class="title">
                                   Rail  Transportation
                                 </h5>
@@ -291,11 +292,11 @@
                 <div class="col-lg-4">
                     <!-- single offer area sart -->
                     <div class="rts-single-offer">
-                        <a href="service-details.html" class="thumbnail">
-                            <img src="assets/images/service/07.jpg" alt="service">
+                        <a href="storage.php" class="thumbnail">
+                            <img src="assets/images/_home/sv3.jpg" alt="service">
                         </a>
                         <div class="content-wrapper">
-                            <a href="service-details.html">
+                            <a href="storage.php">
                                 <h5 class="title">
                                     Tank Storage
                                 </h5>
@@ -323,7 +324,7 @@
                         <div class="single-funfacts-about">
                             <div class="top">
                                 <div class="icon">
-                                    <img src="assets/images/fun-facts/icon/06.svg" alt="fun-facts">
+                                    <img src="assets/images/_others/icon/tk2.png" alt="fun-facts">
                                 </div>
                                 <h2 class="title plus"><span class="counter">2500</span></h2>
                             </div>
@@ -336,7 +337,8 @@
                         <div class="single-funfacts-about">
                             <div class="top">
                                 <div class="icon">
-                                    <img src="assets/images/fun-facts/icon/08.svg" alt="fun-facts">
+                                    <!-- <img src="assets/images/_others/icon/08.svg" alt="fun-facts"> -->
+                                    <img src="assets/images/_others/icon/06.svg" alt="fun-facts">
                                 </div>
                                 <h2 class="title percent"><span class="counter">99</span></h2>
                             </div>
@@ -349,7 +351,7 @@
                         <div class="single-funfacts-about">
                             <div class="top">
                                 <div class="icon">
-                                    <img src="assets/images/fun-facts/icon/09.svg" alt="fun-facts">
+                                    <img src="assets/images/_others/icon/s2.png" alt="fun-facts">
                                 </div>
                                 <h2 class="title plus"><span class="counter">100</span></h2>
                             </div>
@@ -362,7 +364,7 @@
                         <div class="single-funfacts-about">
                             <div class="top">
                                 <div class="icon">
-                                    <img src="assets/images/fun-facts/icon/07.svg" alt="fun-facts">
+                                    <img src="assets/images/_others/icon/t1.png" alt="fun-facts">
                                 </div>
                                 <h2 class="title plus"><span class="counter">70</span></h2>
                             </div>

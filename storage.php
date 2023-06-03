@@ -53,7 +53,7 @@
                 <div class="col-lg-7 pl--60 mt_md--50 mt_sm--50 pl_md--0 pl_sm--0 pb_md--150 pb_sm--150">
                     <div class="about-four-img">
                         <div class="thumbnail-1">
-                            <img src="assets/images/about/07.jpg" alt="about">
+                            <img src="assets/images/_storage/2.jpg" alt="about">
                             <div class="experience">
                                 <h3>5</h3>
                                 <div class="small-st">
@@ -63,7 +63,7 @@
                             </div>
                         </div>
                         <div class="thumbnail-2">
-                            <img src="assets/images/about/08.jpg" alt="about">
+                            <img src="assets/images/_storage/1.jpg" alt="about">
                             <span>Storage Experiences</span>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                                         <div class="side-sticky">
                                             <div class="sticky-inner">
                                                 <div class="thumbnail-area-about">
-                                                    <img src="assets/images/about/01.jpg" alt="about-area" class="main">
+                                                    <img src="assets/images/_storage/5.png" alt="about-area" class="main">
                                                 </div>
                                             </div>
                                         </div>
@@ -123,7 +123,7 @@
                                         <div class="side-sticky">
                                             <div class="sticky-inner">
                                                 <div class="thumbnail-area-about">
-                                                    <img src="assets/images/about/10.jpg" alt="about-area">
+                                                    <img src="assets/images/_storage/4.jpg" alt="about-area">
                                                 </div>
                                             </div>
                                         </div>
@@ -152,7 +152,7 @@
                                         <div class="side-sticky">
                                             <div class="sticky-inner">
                                                 <div class="thumbnail-area-about">
-                                                    <img src="assets/images/about/01.jpg" alt="about-area">
+                                                    <img src="assets/images/_storage/3.png" alt="about-area">
                                                 </div>
                                             </div>
                                         </div>

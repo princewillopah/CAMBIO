@@ -9,9 +9,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- favicon -->
     <!-- <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png"> -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo//apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="assets/images/logo//favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo//favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/_others/logo/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/images/_others/logo/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/images/_others/logo/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
     <title><?php echo $title ?> | CAMBIO SCHEEPVAART BV</title>
 
@@ -87,9 +87,9 @@
                     <div class="col-lg-12">
                         <div class="header-mid-one-wrapper">
                             <div class="logo-area">
-                                <a href="index.html">
-                                    <!-- <img src="assets/images/logo/01.png" alt="logo"> -->
-                                    <img src="assets/images/logo/logo1x.svg" alt="logo">
+                                <a href="index.php">
+                                    <!-- <img src="assets/images/_others01.png" alt="logo"> -->
+                                    <img src="assets/images/_others/logo/logo1x.svg" alt="logo">
                                 </a>
                             </div>
                             <div class="header-right">
@@ -111,12 +111,12 @@
                                     </div>
                                     <div class="info">
                                         <span>Send Us Mail</span>
-                                        <a href="mailto:name@email.com">info@cambioscheepvaart.nl</a>
+                                        <a href="mailto:info@cambioscheepvaart.nl">info@cambioscheepvaart.nl</a>
                                     </div>
                                 </div>
                                 <!-- sinle map area -->
                                 <!-- sinle map area -->
-                                <!-- <div class="single-component">
+                                <div class="single-component">
                                     <a href="contact.html" class="rts-btn btn-primary">Get a Quote
                                         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13" viewBox="0 0 14 13" fill="none">
                                             <path d="M11.0039 3.414L2.39691 12.021L0.98291 10.607L9.58891 2H2.00391V-3.8147e-06H13.0039V11H11.0039V3.414Z" fill="white" />
@@ -131,7 +131,7 @@
                                             </svg>
                                         </div>
                                     </div>
-                                </div> -->
+                                </div>
                                 <!-- sinle map area -->
                             </div>
                         </div>
@@ -230,7 +230,7 @@
                 </p>
                 <div class="footer">
                     <h4 class="title">Got a project in mind?</h4>
-                    <a href="contact.html" class="rts-btn btn-seconday">Let's talk</a>
+                    <a href="contact.php" class="rts-btn btn-seconday">Let's talk</a>
                 </div>
             </div>
         </div>
