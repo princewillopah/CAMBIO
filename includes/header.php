@@ -42,6 +42,32 @@
 
     </style>
 
+<style>
+    .notification {
+      display: none;
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      padding: 10px;
+      background-color: teal;
+      color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      z-index: 9999;
+    }
+  </style>
+  <script>
+    function showNotification() {
+      var notification = document.getElementById("notification");
+      notification.style.display = "block";
+      setTimeout(function() {
+        notification.style.display = "none";
+      }, 3000); // Hide the notification after 3 seconds (adjust as needed)
+    }
+  </script>
+
+
 </head>
 
 <body class="home-one">
@@ -117,11 +143,11 @@
                                 <!-- sinle map area -->
                                 <!-- sinle map area -->
                                 <div class="single-component">
-                                    <a href="contact.html" class="rts-btn btn-primary">Get a Quote
+                                    <!-- <a href="contact.html" class="rts-btn btn-primary">Get a Quote
                                         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="13" viewBox="0 0 14 13" fill="none">
                                             <path d="M11.0039 3.414L2.39691 12.021L0.98291 10.607L9.58891 2H2.00391V-3.8147e-06H13.0039V11H11.0039V3.414Z" fill="white" />
                                         </svg>
-                                    </a>
+                                    </a> -->
                                     <div class="menu-area d-block d-lg-none" id="menu-btn">
                                         <div class="icon">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16" fill="none">
@@ -181,15 +207,11 @@
                                 <!-- nav-area end -->
                                 <!-- header style two End -->
                                 <div class="btn-right">
-                                    <!-- <div class="search-btn" id="search">
-                                        <i class="fa-light fa-magnifying-glass"></i>
-                                    </div>
-                                    <div class="cart-icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20" fill="none">
-                                            <path d="M18.8153 13.3333V1.90476H20.7201V0H17.8629C17.6104 0 17.3681 0.10034 17.1895 0.278946C17.0109 0.457552 16.9106 0.699794 16.9106 0.952381V12.381H5.06485L3.16009 4.7619H15.0058V2.85714H1.93914C1.79437 2.85715 1.65151 2.89015 1.52141 2.95365C1.39132 3.01715 1.27741 3.10948 1.18834 3.22361C1.09928 3.33774 1.03741 3.47067 1.00743 3.6123C0.977451 3.75392 0.980152 3.90052 1.01533 4.04095L3.39628 13.5648C3.44787 13.7707 3.5668 13.9535 3.73418 14.0841C3.90156 14.2148 4.10778 14.2857 4.32009 14.2857H17.8629C18.1155 14.2857 18.3578 14.1854 18.5364 14.0068C18.715 13.8282 18.8153 13.5859 18.8153 13.3333ZM16.9106 20C17.4157 20 17.9002 19.7993 18.2574 19.4421C18.6147 19.0849 18.8153 18.6004 18.8153 18.0952C18.8153 17.5901 18.6147 17.1056 18.2574 16.7484C17.9002 16.3912 17.4157 16.1905 16.9106 16.1905C16.4054 16.1905 15.9209 16.3912 15.5637 16.7484C15.2065 17.1056 15.0058 17.5901 15.0058 18.0952C15.0058 18.6004 15.2065 19.0849 15.5637 19.4421C15.9209 19.7993 16.4054 20 16.9106 20ZM5.482 20C5.98717 20 6.47165 19.7993 6.82887 19.4421C7.18608 19.0849 7.38676 18.6004 7.38676 18.0952C7.38676 17.5901 7.18608 17.1056 6.82887 16.7484C6.47165 16.3912 5.98717 16.1905 5.482 16.1905C4.97682 16.1905 4.49234 16.3912 4.13513 16.7484C3.77792 17.1056 3.57724 17.5901 3.57724 18.0952C3.57724 18.6004 3.77792 19.0849 4.13513 19.4421C4.49234 19.7993 4.97682 20 5.482 20Z" fill="white" />
-                                        </svg>
-                                    </div> -->
-
+                                <ul>
+  <li><a href="#" onclick="changeLanguage('en')">English</a></li>
+  <li><a href="#" onclick="changeLanguage('fr')">Français</a></li>
+</ul>
+                                    <!-- <div class="gtranslate_wrapper"></div> -->
                                     <div class="flag">
                                             <!-- <br /><select onchange="doGTranslate(this);"><option value="">Select Language</option><option value="en|en">English</option><option value="en|ru">Russian</option></select><div id="google_translate_element2"></div> -->
                                         <!-- GTranslate: https://gtranslate.io/ -->

@@ -45,13 +45,15 @@
                     <div class="about-six-inner-wrapper">
                         
                                 <p class="disc">                      
-                                CAMBIO SCHEEPVAART BV is a leading provider of transportation services across rivers, canals, and seaports throughout Europe. Our daily operations cater to esteemed customers from the high-quality chemical and mineral industry, positioning us as a crucial logistical link within the European economy.
+                                CAMBIO SCHEEPVAART BV is a leading provider of transportation services across rivers, canals, and seaports throughout Europe and beyond. Our daily operations cater to esteemed customers from the high-quality chemical and mineral industry, positioning us as a crucial logistical link within the European economy and extending to overseas borders.
+                                </p>
+                                <p class="disc"> 
+                                Our Inland Shipping department operates from selected strategic locations within Europe waters and across Europe to the Asia and Caribbean waters.</p>
+                                <p class="disc">
+                                Our Rotterdam office primarily focuses on transporting (liquid) chemicals along the Antwerp-Rotterdam-Amsterdam (ARA) routes and the Rhine including Subleasing of storage tanks for needy Clients within the port regions. Meanwhile, our Houston office specializes in the transportation of finished mineral oil products along USA waterways and the need to render tank storage rental services through our JVA subleasing terminal owners. All our offices provide a comprehensive range of transportation modes and assistance in storage reservation bookings. What unifies our teams is their exceptional expertise in water transportation and logistics through streamlined communication, reliable coordination, and competitive pricing.
                                 </p>
                                 <p class="disc">
-                                Our Inland Shipping department operates from two strategic locations: Rotterdam in the Netherlands and Houston in USA. The Rotterdam office primarily focuses on transporting (liquid) chemicals along the Antwerp-Rotterdam-Amsterdam (ARA) routes and the Rhine. Meanwhile, our Houston office specializes in the transportation of mineral oil products along USA waterways. Naturally, both offices provide a comprehensive range of transportation modes.
-                                </p>
-                                <p class="disc">
-                                What unifies our teams is their exceptional expertise in water transport. Through streamlined communication, reliable coordination, and competitive pricing, CAMBIO SCHEEPVAART BV strives to establish long-term partnerships with both our private ship owners and clients. Our commitment to excellence ensures efficient and dependable services for all parties involved.
+                                CAMBIO SCHEEPVAART BV strives to establish long-term partnerships with both our private ship owners, Terminal owners and clients. Our commitment to excellence ensures efficient and dependable services for all parties involved.
                                 </p>
                                
 
