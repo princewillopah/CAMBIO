@@ -1,6 +1,6 @@
 <?php
 
-	$title = 'Get the best shipping solution at the best price';
+	$title = 'Get the best OLI PRICES';
 	$page ="home";
    include "includes/header.php";
 ?>
